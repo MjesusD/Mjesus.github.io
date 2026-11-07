@@ -32,6 +32,8 @@ Breve descripción del videojuego, su concepto, objetivo y características prin
 
 Descripción del proyecto y de las funcionalidades implementadas.
 
+**Itchio:** [Descarga](https://mbpaw.itch.io/el-hombre-de-medianoche)
+
 **Tecnologías:** Unity, C#.
 
 **Rol:** Programación y desarrollo.
@@ -45,6 +47,8 @@ Descripción del proyecto y de las funcionalidades implementadas.
 **Descripción:**
 
 Descripción del proyecto y de las funcionalidades implementadas.
+
+**Itchio:** [Descarga](https://mbpaw.itch.io/alariks-tale-the-lost-spells)
 
 **Tecnologías:** Unity, C#.
 
@@ -73,6 +77,9 @@ Descripción del proyecto y de las funcionalidades implementadas.
 **Descripción:**
 
 Descripción del proyecto y de las funcionalidades implementadas.
+
+**Video:** [Descarga](https://youtu.be/EEau3uhbGBo)
+
 
 **Tecnologías:** Blender.
 

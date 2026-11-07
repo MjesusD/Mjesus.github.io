@@ -24,7 +24,7 @@ Breve descripción del videojuego, su concepto, objetivo y características prin
 
 ---
 
-## Proyecto 02 — Alariks Tale´: The lost spells
+## Proyecto 02 — Alariks Tale: The lost spells
 
 ![Imagen del proyecto](assets/img/proyecto-2.png)
 

@@ -1,3 +1,22 @@
+# Información principal del sitio
 theme: jekyll-theme-minimal
-title: Mjesus's homepage
-description: Portafolio personal
+title: "Mj | Portafolio"
+description: "Portafolio personal de programación y desarrollo de videojuegos."
+
+# Información del autor
+author: "Manuela Duarte"
+
+# Configuración visual
+show_downloads: false
+
+# Idioma del sitio
+lang: es
+
+# Opciones del tema
+show_downloads: false
+
+# Configuración de Markdown
+markdown: kramdown
+
+# Redes sociales y enlaces
+github_username: MjesusD

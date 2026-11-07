@@ -24,7 +24,7 @@ Breve descripción del videojuego, su concepto, objetivo y características prin
 
 ---
 
-## Proyecto 02 — El hombre de medianoche
+## Proyecto 02 — Alarik´s Tale
 
 ![Imagen del proyecto](assets/img/proyecto-2.png)
 
@@ -32,15 +32,15 @@ Breve descripción del videojuego, su concepto, objetivo y características prin
 
 Descripción del proyecto y de las funcionalidades implementadas.
 
-**Itchio:** [Descarga](https://mbpaw.itch.io/el-hombre-de-medianoche)
+**Itchio:** [Descargar](https://mbpaw.itch.io/alariks-tale-the-lost-spells)
 
 **Tecnologías:** Unity, C#.
 
-**Rol:** Programación y desarrollo.
+**Rol:** Diseño y desarrollo.
 
 ---
 
-## Proyecto 03 — Alarik´s Tale
+## Proyecto 03 — El hombre de medianoche
 
 ![Imagen del proyecto](assets/img/proyecto-3.png)
 
@@ -48,11 +48,11 @@ Descripción del proyecto y de las funcionalidades implementadas.
 
 Descripción del proyecto y de las funcionalidades implementadas.
 
-**Itchio:** [Descarga](https://mbpaw.itch.io/alariks-tale-the-lost-spells)
+**Itchio:** [Descargar](https://mbpaw.itch.io/el-hombre-de-medianoche)
 
 **Tecnologías:** Unity, C#.
 
-**Rol:** Diseño y desarrollo.
+**Rol:** Programación y desarrollo.
 
 ---
 
@@ -78,7 +78,7 @@ Descripción del proyecto y de las funcionalidades implementadas.
 
 Descripción del proyecto y de las funcionalidades implementadas.
 
-**Video:** [Descarga](https://youtu.be/EEau3uhbGBo)
+**Video:** [Visualizar](https://youtu.be/EEau3uhbGBo)
 
 
 **Tecnologías:** Blender.

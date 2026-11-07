@@ -3,9 +3,9 @@ layout: default
 title: Inicio
 ---
 
-# Hola, soy Mj
+# Hola, soy Manuela Duarte.
 
-### Diseño y desarrollo videojuegos 2D/3D
+### Diseño y Desarrollo de videojuegos 2D/3D
 
 Soy estudiante de Ingeniería en Desarrollo de Videojuegos y Realidad Virtual.
 Me interesa el desarrollo de experiencias interactivas, el diseño de personajes

@@ -16,7 +16,7 @@ programación y experiencias interactivas.
 
 **Descripción:**
 
-Breve descripción del videojuego, su concepto, objetivo y características principales.
+Demo estilo Catch Game, del tipo Arcade/Casual con partidas cortas y progresión basada en dificultad.
 
 **Tecnologías:** Unity, C#.
 
@@ -30,7 +30,7 @@ Breve descripción del videojuego, su concepto, objetivo y características prin
 
 **Descripción:**
 
-Descripción del proyecto y de las funcionalidades implementadas.
+Demo del tipo plataformer 2D, del género magia y aventura. 
 
 **Itchio:** [Descargar](https://mbpaw.itch.io/alariks-tale-the-lost-spells)
 
@@ -46,7 +46,7 @@ Descripción del proyecto y de las funcionalidades implementadas.
 
 **Descripción:**
 
-Descripción del proyecto y de las funcionalidades implementadas.
+Videojuego 2D narrativo, casual y de puzzle inspirado en un cuento de la región del Maule (Chile). 
 
 **Itchio:** [Descargar](https://mbpaw.itch.io/el-hombre-de-medianoche)
 
@@ -58,11 +58,11 @@ Descripción del proyecto y de las funcionalidades implementadas.
 
 ## Proyecto 04 — Unreal explorers (Fire boy & Water girl simulation)
 
-![Imagen del proyecto](assets/img/proyecto-4.png)
+**GitHub:** [Repositorio](https://github.com/Condordie/Proyecto_1_PV3D )
 
 **Descripción:**
 
-Descripción del proyecto y de las funcionalidades implementadas.
+Templo elemental (escenario con puzzles cooperativos). Simulación en 3D, basada en Fireboy & Watergirl.
 
 **Tecnologías:** Unreal Engine, Blueprints Visual Scripting.
 
@@ -76,7 +76,7 @@ Descripción del proyecto y de las funcionalidades implementadas.
 
 **Descripción:**
 
-Descripción del proyecto y de las funcionalidades implementadas.
+Corto animado en blender (creación propia).
 
 **Video:** [Visualizar](https://youtu.be/EEau3uhbGBo)
 

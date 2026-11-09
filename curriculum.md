@@ -26,7 +26,7 @@ Universidad de Talca, Chile.
 - C#.
 - Unreal Engine.
 - Blender.
-- Herramientas de diseño digital.
+- Herramientas de diseño digital (Illustrator, Figma).
 
 ## Currículum PDF
 

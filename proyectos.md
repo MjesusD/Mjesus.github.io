@@ -58,6 +58,8 @@ Videojuego 2D narrativo, casual y de puzzle inspirado en un cuento de la región
 
 ## Proyecto 04 — Unreal explorers (Fire boy & Water girl simulation)
 
+![Imagen del proyecto](assets/img/proyecto-4.png)
+
 **GitHub:** [Repositorio](https://github.com/Condordie/Proyecto_1_PV3D )
 
 **Descripción:**
